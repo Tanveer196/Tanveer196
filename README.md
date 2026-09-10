@@ -4,7 +4,7 @@
 
 I'm a Computer Science Engineering graduate with a strong interest in **Computer Networking, Cybersecurity, SOC Operations, and Network Security**.
 
-I have completed training in **CCNA and CompTIA Security+** and enjoy building practical labs and security projects to strengthen my understanding of real-world networking and cybersecurity.
+I have completed training in **CCNA and CompTIA Security+ Training** and enjoy building practical labs and security projects to strengthen my understanding of real-world networking and cybersecurity.
 
 Currently looking for entry-level opportunities in:
 
@@ -21,9 +21,9 @@ Currently looking for entry-level opportunities in:
 * 🎓 B.E. in Computer Science Engineering — 2026
 * 🌐 CCNA Training — Network Masters, Bangalore
 * 🛡️ CompTIA Security+ Training — Network Masters, Bangalore
-* 💼 Java Full Stack Internship — InternPe
+* 💼 Java Full Stack Internship — Jspiders 
 * 📍 Based in Karnataka, India
-* 🚀 Open to relocating to **Bangalore or Hyderabad**
+
 
 ---
 
